@@ -1,6 +1,6 @@
 # MODO — პროექტის პრეზენტაცია
 
-powerpoint-ში შესრულებული პრეზენტაცია იხილეთ აქ - [MODO_Exam_Presentation_Improved.pptx](https://github.com/user-attachments/files/34517291/MODO_Exam_Presentation_Improved.pptx)
+powerpoint-ში შესრულებული პრეზენტაცია იხილეთ აქ -[MODO_Presentation.pptx](https://github.com/user-attachments/files/34517328/MODO_Presentation.pptx)
 
 
 „ჩემი პროექტია MODO — კრეატიული ნამუშევრების ციფრული გალერეა. მთავარი მიზანი იყო თანამედროვე, ვიზუალურად გამართული და ინტერაქტიული ვებგვერდის შექმნა Front-end ტექნოლოგიებით.
