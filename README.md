@@ -95,5 +95,6 @@ MODO_frontend_project/
 
 - [PROJECT_PLAN.md](PROJECT_PLAN.md) — სამუშაო ეტაპები, საორიენტაციო ვადები, რესურსები, მეთოდები და რისკების მართვა.
 - [TEST_REPORT.md](TEST_REPORT.md) — დადასტურებული სტრუქტურული შემოწმებები, ოპტიმიზაციის მიდგომები და დარჩენილი ხელით გადასამოწმებელი ფუნქციები.
-- [EXAM_PRESENTATION.md](EXAM_PRESENTATION.md) — პრეზენტაციის სასაუბრო ტექსტი. ცალკე მომზადებულია 8-სლაიდიანი PowerPoint პრეზენტაციაც.
+- [EXAM_PRESENTATION.md](EXAM_PRESENTATION.md) — პრეზენტაცია [MODO_Exam_Presentation_Improved.pptx](https://github.com/user-attachments/files/34517270/MODO_Exam_Presentation_Improved.pptx)
+
 
